@@ -1,6 +1,5 @@
 package hello.itemservice.domain.item;
 
-import lombok.Getter;
 import org.springframework.stereotype.Repository;
 
 import java.util.ArrayList;
